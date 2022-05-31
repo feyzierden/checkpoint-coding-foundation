@@ -1,3 +1,5 @@
 function zipStrings(strA, strB) {
-  // Add you solution here
+  console.log("test");
 }
+
+zipStrings();
